@@ -1,0 +1,17 @@
+{
+  "login": {
+    "userId": "Tên đăng nhập",
+    "password": "Mật khẩu",
+    "signin": "Đăng nhập",
+    "signup": "Đăng ký",
+    "signout": "Đăng xuất",
+    "forgotPassword": "Quên mật khẩu ?"
+  },
+  "company": {
+    "name": "Bảo hiểm nhân thọ Phú Hưng"
+  },
+  "header": {
+    "language": "Ngôn ngữ",
+    "account": "Tài khoản"
+  }
+}

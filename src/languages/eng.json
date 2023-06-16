@@ -1,0 +1,17 @@
+{
+  "login": {
+    "userId": "User Id",
+    "password": "Password",
+    "signin": "Sign in",
+    "signup": "Sign up",
+    "signout": "Sign out",
+    "forgotPassword": "Forgot Password ?"
+  },
+  "company": {
+    "name": "Phu Hung Life Insurance"
+  },
+  "header": {
+    "language": "Languages",
+    "account": "Account"
+  }
+}

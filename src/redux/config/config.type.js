@@ -1,0 +1,9 @@
+const configActionType = {
+    INITIAL_STATE: 'INITIAL_STATE',
+    FETCH_OFFICE_START: 'FETCH_OFFICE_START',
+    FETCH_OFFICE_SUCCESS: 'FETCH_OFFICE_SUCCESS',
+    FETCH_OFFICE_FAILURE: 'FETCH_OFFICE_FAILURE',
+    
+  };
+  export default configActionType;
+  
